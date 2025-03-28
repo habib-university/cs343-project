@@ -75,10 +75,12 @@ You will work on one of the following potential use cases of link prediction for
 - **Evaluation & Analysis (30%)**
 - **GitHub Repository Structure & Reproducibility (10%)**
 - **Report Clarity & Insightfulness (10%)**
+- - **Team Formation (2%)**
 - **Progress Check (20%)**
 - **Bonus:** The group achieving the best results will be awarded bonus points.
 
 ## Milestones and Deadlines
+- **Report Submission:** April 7, 2025
 - **Progress Check:** Week 16 (A presentation to show current progress and direction).
 - **Report Submission:** May 7, 2025
 
