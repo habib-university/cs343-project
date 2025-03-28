@@ -1,4 +1,4 @@
-# Graph and Machine Learning Project: Node Classification and Link Prediction
+# **CS343 Graph Data Science Project: Node Classification and Link Prediction in Bibliographic Data**
 
 ## Overview
 This project aims to apply machine learning techniques to a bibliographic dataset using graph-based approaches. You will work in groups of up to four members. Each group must be divided into two sub-groups: one will be responsible for the **node classification** task, while the other will work on the **link prediction** task. The dataset is provided in CSV format, and students will need to clean, preprocess, and construct a graph to train models using **Neo4j** or Python-based machine learning frameworks integrated with Neo4j. The **data cleaning, preprocessing, and graph construction** should be common for both sub-groups.
