@@ -80,7 +80,7 @@ You will work on one of the following potential use cases of link prediction for
 - **Bonus:** The group achieving the best results will be awarded bonus points.
 
 ## Milestones and Deadlines
-- **Report Submission:** April 7, 2025
+- **Team Formation:** April 7, 2025
 - **Progress Check:** Week 16 (A presentation to show current progress and direction).
 - **Report Submission:** May 7, 2025
 
