@@ -17,7 +17,7 @@ The dataset consists of the following CSV files:
 
 The dataset is available at [GitHub Repository](https://github.com/habib-university/cs343-project).
 
-## Task Selection
+## Work Distribution
 Each group must split their efforts equally between two tasks:
 
 ### Node Classification (Assigning labels to nodes)
@@ -66,14 +66,15 @@ You will work on one of the following potential use cases of link prediction for
 - **Maximum Limit:** Maximum of 8 pages in a two-column IEEE format (available at [IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html)).
 
 ## Submission and Grading Criteria
-- **Data Cleaning & Graph Construction (20%)**
-- **Model Implementation & Training (30%)**
-- **Evaluation & Analysis (20%)**
-- **GitHub Repository Structure & Reproducibility (20%)**
+- **Data Cleaning & Graph Construction (10%)**
+- **Model Implementation & Training (20%)**
+- **Evaluation & Analysis (30%)**
+- **GitHub Repository Structure & Reproducibility (10%)**
 - **Report Clarity & Insightfulness (10%)**
+- **Progress Check (20%)**
 - **Bonus:** The group achieving the best results will be awarded bonus points.
 
 ## Milestones and Deadlines
 - **Progress Check:** Week 16 (A presentation to show current progress and direction).
-- **Report Submission:** May 7
+- **Report Submission:** May 7, 2025
 
