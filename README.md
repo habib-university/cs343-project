@@ -15,7 +15,11 @@ The dataset consists of the following CSV files:
 - **paper_topic.csv**: Contains `Paper ID`, `Topic ID`
 - **paper_reference.csv**: Contains `Paper ID`, `Referenced Paper ID`
 
-The dataset is available at [GitHub Repository](https://github.com/habib-university/cs343-project).
+The dataset is available at [GitHub Repository](https://github.com/habib-university/cs343-project). You can learn more about the data and its extraction process in the following paper:
+
+> Rothenberger, Liane, Muhammad Qasim Pasta, and Daniel Mayerhoffer.  
+> "Mapping and impact assessment of phenomenon-oriented research fields: The example of migration research."  
+> *Quantitative Science Studies* 2, no. 4 (2021): 1466-1485.
 
 ## Work Distribution
 Each group must split their efforts equally between two tasks:
@@ -78,3 +82,22 @@ You will work on one of the following potential use cases of link prediction for
 - **Progress Check:** Week 16 (A presentation to show current progress and direction).
 - **Report Submission:** May 7, 2025
 
+## Citation
+Use the following to cite the data:
+
+```
+@article{10.1162/qss_a_00163,
+    author = {Rothenberger, Liane and Pasta, Muhammad Qasim and Mayerhoffer, Daniel},
+    title = "{Mapping and impact assessment of phenomenon-oriented research fields: The example of migration research}",
+    journal = {Quantitative Science Studies},
+    volume = {2},
+    number = {4},
+    pages = {1466-1485},
+    year = {2021},
+    month = {12},
+    issn = {2641-3337},
+    doi = {10.1162/qss_a_00163},
+    url = {https://doi.org/10.1162/qss\_a\_00163},
+    eprint = {https://direct.mit.edu/qss/article-pdf/2/4/1466/2007917/qss\_a\_00163.pdf},
+}
+```
